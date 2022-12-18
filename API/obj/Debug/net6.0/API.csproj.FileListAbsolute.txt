@@ -72,3 +72,11 @@
 /home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
 /home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Mono.TextTemplating.dll
 /home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/System.CodeDom.dll
+/home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
