@@ -80,3 +80,6 @@
 /home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
 /home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/Data/UserSeedData.json
+/home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/AutoMapper.dll
+/home/dell/Documents/charp/DatingApp/API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
